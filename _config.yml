@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "PS 일지"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Dowon0816"
+name                     : "dowon0816"
 description              : "An amazing website."
 url                      : "https://dowon0816.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
